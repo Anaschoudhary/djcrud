@@ -1,0 +1,39 @@
+Watching for file changes with StatReloader
+[03/Aug/2023 20:27:38] "GET / HTTP/1.1" 200 10664
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+August 03, 2023 - 20:27:32
+Django version 4.2.4, using settings 'djcrud.settings'
+Starting development server at http://107.173.15.153:8000/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+[03/Aug/2023 20:29:15] "GET / HTTP/1.1" 200 10664
+[03/Aug/2023 20:29:18] "GET / HTTP/1.1" 200 10664
+[03/Aug/2023 20:29:35] "GET / HTTP/1.1" 200 10664
+[03/Aug/2023 20:29:38] "GET / HTTP/1.1" 200 10664
+[03/Aug/2023 20:31:52] "GET / HTTP/1.1" 200 10664
+[03/Aug/2023 20:35:40] "GET / HTTP/1.1" 200 10664
+[03/Aug/2023 20:35:44] "GET / HTTP/1.1" 200 10664
+Not Found: /favicon.ico
+[03/Aug/2023 20:35:45] "GET /favicon.ico HTTP/1.1" 404 2115
+[03/Aug/2023 20:35:45] "GET / HTTP/1.1" 200 10664
+[03/Aug/2023 20:35:46] "GET / HTTP/1.1" 200 10664
+Not Found: /favicon.ico
+[03/Aug/2023 20:35:47] "GET /favicon.ico HTTP/1.1" 404 2115
+[03/Aug/2023 20:39:21] "GET / HTTP/1.1" 200 10664
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+August 03, 2023 - 20:29:00
+Django version 4.2.4, using settings 'djcrud.settings'
+Starting development server at http://107.173.15.153:8000/
+Quit the server with CONTROL-C.
+
